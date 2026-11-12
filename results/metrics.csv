@@ -1,0 +1,9 @@
+image,method,entropy,corr_h,corr_v,npcr,uaci
+gradient,Original,7.9716,1.0000,1.0000,,
+gradient,XOR,7.9998,-0.0239,-0.0268,99.6078,33.4721
+gradient,AES-ECB,7.9998,-0.0116,0.0215,,
+gradient,AES-CTR,7.9998,0.0072,0.0105,,
+map,Original,3.9440,0.7166,0.6725,,
+map,XOR,7.9998,-0.0084,0.0108,99.6085,33.4592
+map,AES-ECB,6.6716,-0.0869,0.6896,,
+map,AES-CTR,7.9998,-0.0190,0.0119,,

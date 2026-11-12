@@ -1,0 +1,11 @@
+{
+  "algorithms": ["xor-xorshift32", "aes-ecb", "aes-ctr"],
+  "images": ["gradient.png", "map.png"],
+  "key": "my_secret_key",
+  "key_changed": "my_secret_keY",
+  "metrics": ["entropy", "correlation_h", "correlation_v", "npcr", "uaci"],
+  "notes": {
+    "npcr_uaci": "computed for XOR only",
+    "correlation_samples": 5000
+  }
+}
